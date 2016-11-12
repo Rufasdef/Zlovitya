@@ -47,6 +47,7 @@ namespace ТП1
 
             }
             if (p == 0) Console.WriteLine("В другой раз...");
+            //Привет, Мари, смотри - я на гитхабе
             Console.ReadLine();
         }
     }
